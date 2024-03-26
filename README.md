@@ -24,7 +24,7 @@ To run the program, ensure you have .NET 8 LTS installed. Clone the repository, 
 
 shell
 dotnet run
--The console will display all prime numbers up to 10,000.
+- The console will display all prime numbers up to 10,000.
 
 ## Contribution
 Contributions to improve ReverseDigits are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
